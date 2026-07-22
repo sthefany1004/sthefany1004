@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Yara Sthefany 👋
 
-<!--
-**sthefany1004/sthefany1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas no IFPE
 
-Here are some ideas to get you started:
+🚀 Desenvolvedora em formação, criando aplicações Web com:
+- Java
+- JavaScript
+- react
+- CSS
+- Spring Boot
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Atualmente estudando
+
+- Redes de computadores
+- Arquitetura de computadores
+- Banco de dados I
+- Linguagem de Programação orientada a objetos
+- Engenharia de software
+
+## 📊 GitHub Stats
+
+![Yara GitHub stats](https://github-readme-stats.vercel.app/api?username=sthefany1004&show_icons=true)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
