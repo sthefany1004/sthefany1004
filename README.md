@@ -19,9 +19,6 @@
 - Linguagem de Programação orientada a objetos
 - Engenharia de software
 
-## 📊 GitHub Stats
-
-![Yara GitHub stats](https://github-readme-stats.vercel.app/api?username=sthefany1004&show_icons=true)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
