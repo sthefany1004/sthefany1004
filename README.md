@@ -1,6 +1,6 @@
-# Olá, eu sou Yara Sthefany. Tenho 19 anos e sou estudante de Análise e desenvolvimento de sistemas no Instituto federal de Penambuco campus Paulista. Estou em busca de um estágio, em que possa colocar em prática a vivência de sala de aula. Faço alguns projetos autorais que estã
+Olá, eu sou Yara Sthefany. Tenho 19 anos e sou estudante de Análise e desenvolvimento de sistemas no Instituto federal de Penambuco campus Paulista. Estou em busca de um estágio na área de tecnologia, onde eu possa aplicar meus conhecimentos, desenvolver minhas habilidades e adquirir experiência profissional. Além dos projetos acadêmicos, também desenvolvo projetos autorais com o objetivo de praticar meus conhecimentos, explorar novas tecnologias e criar soluções utilizando boas práticas de programação. Um abraço!
 
-🚀 Desenvolvedora em formação, criando aplicações Web com:
+## 🚀 Desenvolvedora em formação, criando aplicações Web com:
 - Java
 - JavaScript
 - react
